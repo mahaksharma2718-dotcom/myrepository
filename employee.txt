@@ -2,3 +2,6 @@ Employee Project
 Name: John
 Role: senior Developer
 Department: IT
+Name: Jenny
+Role: SE 
+Department: IT
